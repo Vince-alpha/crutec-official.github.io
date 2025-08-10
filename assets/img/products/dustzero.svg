@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2bb3ff"/><stop offset="1" stop-color="#00d68f"/></linearGradient></defs>
+<rect width="1400" height="900" fill="#0b0f16"/>
+<circle cx="380" cy="300" r="260" fill="url(#g)" opacity=".25"/>
+<circle cx="1100" cy="620" r="280" fill="url(#g)" opacity=".15"/>
+<text x="70" y="820" fill="#9fb0c8" font-family="Inter,Segoe UI" font-size="44">Dustzero</text>
+</svg>
